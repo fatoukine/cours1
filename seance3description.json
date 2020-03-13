@@ -1,0 +1,24 @@
+{
+  "farm_nom":"Ma premiere ferme",
+    "animal_list" : [
+      {
+        "type" : "salimata",
+        "age" : "4",
+        "sexe" : "femelle"
+      },
+      
+      {
+        "type" : "sophie",
+        "age" : "3",
+        "sexe" : "femelle"
+      },
+      
+      {
+        "type" : "vache",
+        "age" : "13",
+        "sexe" : "femelle"
+      }
+      
+      
+    ]
+}
