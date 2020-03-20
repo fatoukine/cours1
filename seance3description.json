@@ -20,5 +20,32 @@
       }
       
       
+    ],
+    
+
+  "farm2_nom":"Ma deuxieme ferme",
+    "animal2_list" : [
+      {
+        "type" : "mouton",
+        "age" : "2",
+        "sexe" : "male"
+      },
+      
+      {
+        "type" : "souris",
+        "age" : "6",
+        "sexe" : "femelle"
+      },
+      
+      {
+        "type" : "chien",
+        "age" : "13",
+        "sexe" : "male"
+      }
+      
+      
     ]
 }
+  
+                  
+
